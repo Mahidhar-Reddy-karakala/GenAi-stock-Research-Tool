@@ -10,3 +10,6 @@ It simplifies financial analysis, making it easier to understand a company's per
 2)Company Overview & Business Model – Detailed explanation of the company’s operations.
 3)Financial Data Sheets – Access structured company financial data for deeper analysis
 # installation
+clone
+```git clone https://github.com/Mahidhar-Reddy-karakala/GenAi-stock-Research-Tool.git
+```
