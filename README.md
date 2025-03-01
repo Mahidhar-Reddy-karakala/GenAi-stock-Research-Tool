@@ -40,9 +40,33 @@ pip install -r requirements.txt
 ---
 
 ## ▶️ Run the Application
-```sh
-streamlit run StockData.py
-```
+### **Using Command Prompt or Terminal**
+1. Navigate to the project directory:
+   ```sh
+   cd GenAi-stock-Research-Tool
+   ```
+2. Activate the virtual environment:
+   - **Windows:**
+     ```sh
+     venv\Scripts\activate
+     ```
+   - **Mac/Linux:**
+     ```sh
+     source venv/bin/activate
+     ```
+3. Run the application:
+   ```sh
+   streamlit run StockData.py
+   ```
+
+### **Using VS Code**
+1. Open VS Code and navigate to the project folder.
+2. Open a new terminal (Ctrl + `).
+3. Activate the virtual environment as shown above.
+4. Run the application using:
+   ```sh
+   streamlit run StockData.py
+   ```
 
 ---
 
