@@ -38,5 +38,12 @@ pip install -r requirements.txt
 ```
 
 ---
+**Contributing**
+Feel free to fork this repository and submit pull requests for improvements.
 
+**License**
+MIT License
 ✅ Now you're all set! Start exploring financial insights effortlessly. 🚀📈
+
+
+
