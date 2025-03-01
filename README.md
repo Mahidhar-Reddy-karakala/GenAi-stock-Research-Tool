@@ -39,6 +39,21 @@ pip install -r requirements.txt
 
 ---
 
+## 🔐 Setting Up Environment Variables
+1. Create a `.env` file in the project root directory.
+2. Add the required variables as shown below:
+   ```
+   API_KEY=your_api_key_here
+   DATABASE_URL=your_database_url_here
+   ```
+3. Save the file and proceed with running the application.
+4. Ensure the `.env` file is **not** committed to Git by adding it to `.gitignore`:
+   ```
+   .env
+   ```
+
+---
+
 ## ▶️ Run the Application
 ### **Using Command Prompt or Terminal**
 1. Navigate to the project directory:
