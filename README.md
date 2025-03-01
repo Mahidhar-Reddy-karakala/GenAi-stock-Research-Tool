@@ -38,12 +38,18 @@ pip install -r requirements.txt
 ```
 
 ---
-**Contributing**
+
+## ▶️ Run the Application
+```sh
+streamlit run StockData.py
+```
+
+---
+
+## 🤝 Contributing
 Feel free to fork this repository and submit pull requests for improvements.
 
-**License**
-MIT License
+## 📜 License
+This project is licensed under the **MIT License**.
+
 ✅ Now you're all set! Start exploring financial insights effortlessly. 🚀📈
-
-
-
