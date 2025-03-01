@@ -11,7 +11,8 @@ It simplifies financial analysis, making it easier to understand a company's per
 3)Financial Data Sheets – Access structured company financial data for deeper analysis
 # installation
 1)clone:
-```git clone https://github.com/Mahidhar-Reddy-karakala/GenAi-stock-Research-Tool.git
+```
+git clone https://github.com/Mahidhar-Reddy-karakala/GenAi-stock-Research-Tool.git
 ```
 2)Create and activate a virtual environment:
 ```python -m venv venv```
